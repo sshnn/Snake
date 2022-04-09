@@ -1,0 +1,3 @@
+﻿  WidgetPanel.cpp
+C:\Users\salih\OneDrive\Desktop\örnek\Snake\Snake\03 - Yilan\WidgetPanel.cpp(46,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  03 - Yilan.vcxproj -> C:\Users\salih\OneDrive\Desktop\örnek\bin\Snake.exe
