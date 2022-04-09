@@ -81,7 +81,7 @@ void Game::loadInterfaces()
 	newPanel->setBackground(m_casingList["Windows.png"], sf::IntRect(sf::Vector2i(799, 933), sf::Vector2i(550, 742)));
 	
 
-	auto btnNewGame = newPanel->addButton("New Game");
+	auto btnNewGame = newPanel->addButton("Start");
 	auto btnList = newPanel->addButton("List");
 	auto btnExit = newPanel->addButton("Exit");
 
